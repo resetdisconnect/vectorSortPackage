@@ -1,0 +1,36 @@
+[
+    {
+        "file": "C:/Users/alice/OneDrive/Documents/vectorSortPackage/src/vectorSort.cpp",
+        "file_last_write": 1727075550.0,
+        "definitions": [
+            {
+                "usr": "c:@F@sortVector#&$@N@Rcpp@S@Vector>#VI13#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "sortVector(Rcpp::IntegerVector &)",
+                "file": "C:/Users/alice/OneDrive/Documents/vectorSortPackage/src/vectorSort.cpp",
+                "line": 6,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/alice/OneDrive/Documents/vectorSortPackage/src/vectorSort.h",
+        "file_last_write": 1727070391.0,
+        "definitions": [
+            {
+                "usr": "c:@S@vectorSort",
+                "kind": 2,
+                "parent_name": "",
+                "name": "vectorSort",
+                "file": "C:/Users/alice/OneDrive/Documents/vectorSortPackage/src/vectorSort.h",
+                "line": 4,
+                "column": 7,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

@@ -1,0 +1,11 @@
+Package: vectorSortPackage
+Type: Package
+Title: A Package for Sorting Integer Vectors with C++
+Version: 0.1.0
+Author: Alice Zhang
+Maintainer: Alice Zhang <zhanga@ufl.edu>
+Description: This package provides a function to sort integer vectors with C++.
+Imports: Rcpp
+LinkingTo: Rcpp
+Encoding: UTF-8
+RoxygenNote: 7.3.2
